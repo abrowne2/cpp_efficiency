@@ -1,5 +1,5 @@
 # cpp_efficiency
-This plugin works for Sublime Text. When you save your file and it is cpp code, it will attempt to compile the single file. 
+This plugin works for Sublime Text. When you save your file and it is cpp code, it will attempt to compile the file. 
 
 ## useful info
 * Useful for debugging small projects / files.
